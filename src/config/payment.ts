@@ -7,5 +7,5 @@ export const paymentConfig = {
   shopeeUrl: "https://shopee.co.id" // Link Shopee toko AURA
 };
 
-export const adminWhatsApp = "6281234567890"; // ganti dengan nomor asli
+export const adminWhatsApp = "6285806912873"; // ganti dengan nomor asli
 
